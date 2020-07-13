@@ -1,5 +1,5 @@
 ## Description about repository:
-This repository consists of Natural_language_Learning Projects. Datasets are provided and also the solution to the problem statements have been provided.
+This repository consists of Natural_Langauge_Processing Projects. Datasets are provided and also the solution to the problem statements have been provided.
 
 ## Fake News Classification
 1. The project involved textual analysis of news articles to detect Fake News. Performed tokenization by using Natural Language Toolkit (NLTK) and created a corpus.
